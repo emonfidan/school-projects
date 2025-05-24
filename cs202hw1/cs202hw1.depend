@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1709565677 source:c:\users\emine\onedrive\masaüstü\cs202hw1\bst.cpp
+	"BST.h"
+	"Stack.h"
+	"treeNode.h"
+	<iostream>
+
+1709563719 c:\users\emine\onedrive\masaüstü\cs202hw1\bst.h
+	"Stack.h"
+	"treeNode.h"
+
+1709565455 c:\users\emine\onedrive\masaüstü\cs202hw1\stack.h
+	<iostream>
+	<string>
+
+1709504066 c:\users\emine\onedrive\masaüstü\cs202hw1\treenode.h
+

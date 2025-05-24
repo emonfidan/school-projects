@@ -1,0 +1,19 @@
+6 cages and 9 connections have been loaded.
+
+The cages in the zoo are:
+A, B, C, D, E, F,
+
+The cages adjacent to E are:
+E -> D, F,
+
+The cages adjacent to C are:
+C ->
+
+The whole zoo map is:
+A -> E,
+B -> A, C, E,
+C ->
+D -> A,
+E -> D, F,
+F -> B, C,
+

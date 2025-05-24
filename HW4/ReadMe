@@ -1,0 +1,14 @@
+1.Test cases should be run like this(redirect your screen output to a file like below):
+
+./pathFinder input1.txt 0 6 > output1.txt
+./pathFinder input2.txt 7 31 > output2.txt
+./pathFinder input3.txt 514 716 > output3.txt
+./pathFinder input4.txt 14 77 > output4.txt
+./pathFinder input5.txt 14 77 > output5.txt
+
+To test:
+1.Copy the test*.cpp and the Makefile in your directory
+(Must not be the same one where you have your codes and own Makefile, also copy your output*.txt files there)
+2.Modify the Makefile by including the path of your cloned google test directory
+3.make build
+4.make run

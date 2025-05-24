@@ -1,0 +1,13 @@
+1.Test cases should be run like this(redirect your screen output to a file like below):
+
+./subtask1 log1.txt output1.txt
+./subtask2 log2.txt output2.txt
+./subtask3 log3.txt output3.txt
+./subtask3 log4.txt output4.txt
+
+To test:
+1.Copy the test*.cpp and the Makefile in your directory
+(Must not be the same one where you have your codes and own Makefile, also copy your output*.txt files there)
+2.Modify the Makefile by including the path of your cloned google test directory
+3.make build
+4.make run

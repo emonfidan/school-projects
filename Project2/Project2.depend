@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695304891 source:c:\users\emine\onedrive\masaüstü\project2\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
+1695305860 c:\users\emine\onedrive\masaüstü\project2\gradebook.h
+	<string>
+	<iostream>
+
+1696181944 source:c:\users\emine\onedrive\masaüstü\project2\main.cpp
+	"GradeBook.h"
+	<iostream>
+

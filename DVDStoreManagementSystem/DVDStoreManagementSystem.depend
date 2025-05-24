@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1709923502 source:c:\users\emine\onedrive\masaüstü\dvdstoremanagementsystem\dvdstoremanagementsystem.cpp
+	"DVDStoreManagementSystem.h"
+	<iostream>
+	<string>
+
+1709919815 c:\users\emine\onedrive\masaüstü\dvdstoremanagementsystem\dvdstoremanagementsystem.h
+	<iostream>
+	<string>
+	"DVD.h"
+	"Customer.h"
+
+1709921311 source:c:\users\emine\onedrive\masaüstü\dvdstoremanagementsystem\customer.cpp
+	<iostream>
+	<string>
+	"Customer.h"
+
+1709920579 c:\users\emine\onedrive\masaüstü\dvdstoremanagementsystem\customer.h
+	<iostream>
+	<string>
+	"DVD.h"
+
+1709921063 source:c:\users\emine\onedrive\masaüstü\dvdstoremanagementsystem\dvd.cpp
+	<iostream>
+	<string>
+	"DVD.h"
+	"Customer.h"
+
+1709920785 c:\users\emine\onedrive\masaüstü\dvdstoremanagementsystem\dvd.h
+	<iostream>
+	<string>
+

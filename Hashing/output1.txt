@@ -1,0 +1,10 @@
+Minimum number of computers required: 2
+
+Simulation with 2 computers:
+
+Computer 0 takes request 1 at ms 3 (wait: 0 ms)
+Computer 0 takes request 2 at ms 70 (wait: 0 ms)
+Computer 1 takes request 3 at ms 82 (wait: 0 ms)
+Computer 0 takes request 4 at ms 101 (wait: 16 ms)
+
+Average waiting time:  4.00 ms

@@ -1,0 +1,5 @@
+Path consists of 3 routers:
+7
+0
+31
+Diameter of the graph is 5

@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1714475424 source:c:\users\emine\onedrive\masaüstü\hashing\subtask1.cpp
+	<iostream>
+	<string>
+	"LinkedList.h"
+	"HashTable.h"
+	<fstream>
+	<iomanip>
+
+1714475424 source:c:\users\emine\onedrive\masaüstü\hashing\subtask2.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	"Tuple.h"
+
+1714491686 source:c:\users\emine\onedrive\masaüstü\hashing\subtask3.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	"Tuple.h"
+	"TwoTuples.h"
+
+1714388224 source:c:\users\emine\onedrive\masaüstü\hashing\hashtable.cpp
+	<iostream>
+	<string>
+	"LinkedList.h"
+	"HashTable.h"
+
+1714338124 c:\users\emine\onedrive\masaüstü\hashing\linkedlist.h
+	"Node.h"
+	"PrecondViolatedExcept.h"
+	<iostream>
+
+1714329952 c:\users\emine\onedrive\masaüstü\hashing\node.h
+	<iostream>
+
+1714330090 c:\users\emine\onedrive\masaüstü\hashing\precondviolatedexcept.h
+	<stdexcept>
+	<string>
+
+1714387932 c:\users\emine\onedrive\masaüstü\hashing\hashtable.h
+	<iostream>
+	<string>
+	"LinkedList.h"
+
+1714507287 c:\users\emine\onedrive\masaüstü\hashing\tuple.h
+	<iostream>
+	<string>
+
+1714491763 c:\users\emine\onedrive\masaüstü\hashing\twotuples.h
+	<iostream>
+	<string>
+	"Tuple.h"
+
+1714498336 source:c:\users\emine\onedrive\masaüstü\hashing\deneme.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	"Tuple.h"
+	"TwoTuples.h"
+

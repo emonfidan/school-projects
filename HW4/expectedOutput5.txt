@@ -1,0 +1,10 @@
+Path consists of 8 routers:
+14
+3139
+10390
+10389
+10388
+10387
+76
+77
+Diameter of the graph is 13

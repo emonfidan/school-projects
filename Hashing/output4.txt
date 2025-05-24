@@ -1,0 +1,24 @@
+Minimum number of computers required: 5
+
+Simulation with 5 computers:
+
+Computer 0 takes request 1 at ms 1 (wait: 0 ms)
+Computer 1 takes request 3 at ms 1 (wait: 0 ms)
+Computer 2 takes request 2 at ms 1 (wait: 0 ms)
+Computer 3 takes request 4 at ms 10 (wait: 0 ms)
+Computer 0 takes request 5 at ms 20 (wait: 0 ms)
+Computer 1 takes request 6 at ms 35 (wait: 0 ms)
+Computer 2 takes request 7 at ms 41 (wait: 0 ms)
+Computer 3 takes request 8 at ms 41 (wait: 0 ms)
+Computer 4 takes request 9 at ms 41 (wait: 0 ms)
+Computer 0 takes request 10 at ms 51 (wait: 10 ms)
+Computer 3 takes request 11 at ms 82 (wait: 33 ms)
+Computer 4 takes request 12 at ms 92 (wait: 42 ms)
+Computer 1 takes request 13 at ms 96 (wait: 41 ms)
+Computer 1 takes request 14 at ms 106 (wait: 45 ms)
+Computer 0 takes request 15 at ms 111 (wait: 30 ms)
+Computer 2 takes request 16 at ms 112 (wait: 14 ms)
+Computer 1 takes request 17 at ms 120 (wait: 15 ms)
+Computer 1 takes request 18 at ms 130 (wait: 10 ms)
+
+Average waiting time:  13.33 ms

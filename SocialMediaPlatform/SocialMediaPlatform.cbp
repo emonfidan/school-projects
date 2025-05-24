@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SocialMediaPlatform" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SocialMediaPlatform" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SocialMediaPlatform" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Content.cpp" />
+		<Unit filename="Content.h" />
+		<Unit filename="ContentCreator.cpp" />
+		<Unit filename="ContentCreator.h" />
+		<Unit filename="LinkedList.cpp" />
+		<Unit filename="LinkedList.h" />
+		<Unit filename="Node.cpp" />
+		<Unit filename="Node.h" />
+		<Unit filename="PrecondViolatedExcept.h" />
+		<Unit filename="RegularUser.cpp" />
+		<Unit filename="RegularUser.h" />
+		<Unit filename="SocialMediaPlatform.cpp" />
+		<Unit filename="SocialMediaPlatform.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

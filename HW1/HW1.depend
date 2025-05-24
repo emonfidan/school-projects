@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1697964377 source:c:\users\emine\onedrive\masaüstü\hw1\employee.cpp
+	"Employee.h"
+	<string>
+
+1697964911 c:\users\emine\onedrive\masaüstü\hw1\employee.h
+	<string>
+
+1697963444 source:c:\users\emine\onedrive\masaüstü\hw1\issue.cpp
+	"Issue.h"
+	<string>
+
+1697926623 c:\users\emine\onedrive\masaüstü\hw1\issue.h
+	<string>
+
+1697991150 source:c:\users\emine\onedrive\masaüstü\hw1_1\employee.cpp
+	"Employee.h"
+	<string>
+	<iostream>
+
+1697991108 c:\users\emine\onedrive\masaüstü\hw1_1\employee.h
+	<string>
+

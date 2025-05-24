@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1701717212 source:c:\users\emine\onedrive\masaüstü\socialmediaplatform\linkedlist.cpp
+	"Node.h"
+	"LinkedList.h"
+	<iostream>
+
+1701716580 source:c:\users\emine\onedrive\masaüstü\socialmediaplatform\node.cpp
+	"Node.h"
+	<iostream>
+
+1701840397 c:\users\emine\onedrive\masaüstü\socialmediaplatform\node.h
+	<iostream>
+
+1703579702 c:\users\emine\onedrive\masaüstü\socialmediaplatform\linkedlist.h
+	"Node.h"
+	"PrecondViolatedExcept.h"
+	<iostream>
+
+1701715080 c:\users\emine\onedrive\masaüstü\socialmediaplatform\linkedlist.cpp
+	"Node.h"
+	"LinkedList.h"
+	<iostream>
+
+1703579497 source:c:\users\emine\onedrive\masaüstü\socialmediaplatform\socialmediaplatform.cpp
+	"SocialMediaPlatform.h"
+	"LinkedList.h"
+	"RegularUser.h"
+	"ContentCreator.h"
+	"Content.h"
+	"Node.h"
+	<iostream>
+
+1701710496 c:\users\emine\onedrive\masaüstü\socialmediaplatform\node.cpp
+	"Node.h"
+	<iostream>
+
+1701840397 source:c:\users\emine\onedrive\masaüstü\socialmediaplatform\content.cpp
+	"Content.h"
+	<iostream>
+
+1701840397 c:\users\emine\onedrive\masaüstü\socialmediaplatform\content.h
+	<iostream>
+
+1701888731 source:c:\users\emine\onedrive\masaüstü\socialmediaplatform\contentcreator.cpp
+	"ContentCreator.h"
+	<iostream>
+
+1701888731 c:\users\emine\onedrive\masaüstü\socialmediaplatform\contentcreator.h
+	"LinkedList.h"
+	"Content.h"
+	"RegularUser.h"
+	<iostream>
+
+1701840397 source:c:\users\emine\onedrive\masaüstü\socialmediaplatform\regularuser.cpp
+	"RegularUser.h"
+
+1701840397 c:\users\emine\onedrive\masaüstü\socialmediaplatform\regularuser.h
+	<iostream>
+	<string>
+
+1701889073 c:\users\emine\onedrive\masaüstü\socialmediaplatform\socialmediaplatform.h
+	<iostream>
+	<string>
+	"LinkedList.h"
+	"RegularUser.h"
+	"ContentCreator.h"
+
+1701840397 c:\users\emine\onedrive\masaüstü\socialmediaplatform\precondviolatedexcept.h
+	<stdexcept>
+	<string>
+

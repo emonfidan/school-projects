@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1712565378 source:c:\users\emine\onedrive\masaüstü\sorting\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+

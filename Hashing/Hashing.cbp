@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Hashing" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Hashing" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Hashing" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Hash.h" />
+		<Unit filename="HashNode.h" />
+		<Unit filename="HashTable.cpp" />
+		<Unit filename="HashTable.h" />
+		<Unit filename="LinkedList.h" />
+		<Unit filename="Node.h" />
+		<Unit filename="PrecondViolatedExcept.h" />
+		<Unit filename="Subtask1.cpp" />
+		<Unit filename="Subtask2.cpp" />
+		<Unit filename="Subtask3.cpp" />
+		<Unit filename="Tuple.h" />
+		<Unit filename="deneme.cpp" />
+		<Unit filename="twoTuples.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

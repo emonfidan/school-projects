@@ -1,0 +1,10 @@
+9
+ab
+abc
+abdce
+bc
+bcda
+cab
+bca
+def
+ef
